@@ -1,4 +1,4 @@
-#### \*This is my practice from LinkedIn Learning - Scripting for Testers. All scripts are written in Python. The scripts are to run HTTP request, creating a report using Google Spreadsheet API, and Selenium UI test.
+#### \*This is my practice from LinkedIn Learning - Scripting for Testers. All scripts are written in Python. The scripts are to run HTTP request, creating a report using Google Spreadsheet API, Selenium UI test, and combined complex test cases.
 
 ### Download Python REST API Dependencies
 
